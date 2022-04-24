@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/vivekwarkade1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/vivekwarkade1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-warkade-623866216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-warkade-623866216/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vivekwarkade00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vivekwarkade00" height="30" width="40" /></a>
+<a href="mailto:vivekwarkade00@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-768x432.png" height="30" width="50" /></a>
 </p>
 
 <!-- <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB%22/%3E'> -->
