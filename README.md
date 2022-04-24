@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning More Accuracy on Developments.
 - 🤔 I’m looking for help with Backend Developments.
 - 💬 Ask me about Django and other web development Stuff.
-- 📫 How to reach me: [Twitter - @vivekwarkade1](https://twitter.com/vivekwarkade1), [Linkedin - Vivek Warkade](https://www.linkedin.com/in/vivek-warkade-623866216/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Thinking.....🤔🤔🤔
 
@@ -23,16 +22,9 @@
 
 
 
+<a><img align='left' src="https://github-readme-stats.vercel.app/api?username=itzzvivek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"></p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=itzzvivek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=itzzvivek&layout=compact)](https://github.com/itzzvivek">
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzzvivek&label=Profile%20views&color=0e75b6&style=flat" alt="itzzvivek" /> </p>
-
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzvivek&show_icons=true&locale=en&layout=compact" alt="itzzvivek" /> </p>
 
 
