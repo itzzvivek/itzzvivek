@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+<!-- ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS) -->
+![Profile View Counter](https://komarev.com/ghpvc/?username=itzzvivek)
 
 ### <h1>Hello, I'm Vivek Warkade👋</h1>
 
@@ -8,6 +9,7 @@
 - 💬 Ask me about Django and other web development Stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Thinking.....🤔🤔🤔
+<br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django" width="40" height="40"/> <a href="[https://https://www.git.com/](https://git-scm.com/)" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/git-icon/git-icon-0.jpg" alt="git" width="40" height="40"/></a><a href="[https://https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/github-icon/github-icon-0.jpg" alt="git" width="40" height="40"/></a></p>
@@ -19,6 +21,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-warkade-623866216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-warkade-623866216/" height="30" width="40" /></a>
 <a href="mailto:vivekwarkade00@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-768x432.png" height="30" width="50" /></a>
 </p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB%22/%3E'> -->
 
