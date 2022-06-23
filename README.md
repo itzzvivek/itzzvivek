@@ -1,5 +1,5 @@
-<!-- ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS) -->
-![Profile View Counter](https://komarev.com/ghpvc/?username=itzzvivek)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=itzzvivek) -->
 
 ### <h1>Hello, I'm Vivek Warkade👋</h1>
 
