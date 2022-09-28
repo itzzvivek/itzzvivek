@@ -34,11 +34,11 @@
     <a href="[https://https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/github-icon/github-icon-0.jpg" alt="git" width="50" height="50"/></a></p>
 
 
-<!-- <img src"https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={itzzvivek}&theme=vue"> -->
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzzvivek&theme=vue&color=black&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"></a>
 
 <a><img align='left' src="https://github-readme-stats.vercel.app/api?username=itzzvivek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="50%"></p>
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzvivek&show_icons=true&locale=en&layout=compact" alt="itzzvivek" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzvivek&show_icons=true&locale=en&layout=compact&&&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"" alt="itzzvivek"/></p>
 
 
