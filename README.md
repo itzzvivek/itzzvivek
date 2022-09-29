@@ -38,7 +38,7 @@ It's very exciting to learn about new technologies and solveing problems, My exi
     <a href="[https://https://www.git.com/](https://git-scm.com/)" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/git-icon/git-icon-0.jpg" alt="git" width="50" height="50"/></a>
     <a href="[https://https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/github-icon/github-icon-0.jpg" alt="git" width="50" height="50"/></a></p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzzvivek&theme=vue&color=black&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://activity-graph.herokuapp.com/graph?username=itzzvivek&theme=minimal">
       
 <h3><i>About Myself:</i></h3>
  
