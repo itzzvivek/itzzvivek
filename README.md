@@ -38,7 +38,7 @@ It's very exciting to learn about new technologies and solveing problems, My exi
     <a href="[https://https://www.git.com/](https://git-scm.com/)" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/git-icon/git-icon-0.jpg" alt="git" width="50" height="50"/></a>
     <a href="[https://https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/github-icon/github-icon-0.jpg" alt="git" width="50" height="50"/></a></p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=itzzvivek&theme=minimal">
+<img src="https://activity-graph.herokuapp.com/graph?username=itzzvivek&theme=minimal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
       
 <h3><i>About Myself:</i></h3>
  
@@ -51,7 +51,7 @@ It's very exciting to learn about new technologies and solveing problems, My exi
       
       
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=itzzvivek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="50%">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzvivek&show_icons=true&locale=en&layout=compact&&&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"" alt="itzzvivek"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzvivek&show_icons=true&locale=en&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="itzzvivek"/></p>
 
   <br><br>
 <a align="right" href="https://www.buymeacoffee.com/vivekwarkaK" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
