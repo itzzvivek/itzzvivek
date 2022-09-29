@@ -45,7 +45,7 @@ It's very exciting to learn about new technologies and solveing problems, My exi
    - 💻 I am a Web Developer and Currently Working in a IT Compony
    - 🎓 Will Gradulate in 2020 with a Bachelor's Degree in Computer Science and Engineering.
    - ✍️ I believe in Self Study and Guidance from Experts for growing knowledge 
-   - 🏃 my journey began at 21 but after my PG i was thinking about switch for nontech!
+   - 🏃 my journey began at 21 but after my UG i was thinking about switch for nontech!
    - 🎮 I love to play video games in free time, i'm also a esports player, played with underdog ranks teams as a compititive player in mobile games.    
  
       
