@@ -36,7 +36,8 @@ It's very exciting to learn about new technologies and solveing problems, My exi
     <a href="https://https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="django" width="50" height="50"/>
       <a href="https://https://www.postgresql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="django" width="50" height="50"/>
     <a href="[https://https://www.git.com/](https://git-scm.com/)" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/git-icon/git-icon-0.jpg" alt="git" width="50" height="50"/></a>
-    <a href="[https://https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/github-icon/github-icon-0.jpg" alt="git" width="50" height="50"/></a></p>
+    <a href="[https://https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/github-icon/github-icon-0.jpg" alt="git" width="50" height="50"/></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></a></p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=itzzvivek&theme=minimal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
       
