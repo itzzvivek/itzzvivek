@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=itzzvivek&label=PROFILE+VIEWS)
 
 ### <h1 align="center">Hello👋, I'm Vivek</h1>
 <a href="https://www.linkedin.com/in/vivek-warkade-623866216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
