@@ -9,7 +9,7 @@
 <!-- ![Black Minimal Motivation Quote LinkedIn Banner] -->
 <img src="https://user-images.githubusercontent.com/79581616/192851994-738c24ba-7150-4609-a369-566e518b1639.gif">
 
-<h3><i>Hi there! My name is Vivek Warkade</i></h3><p>wellcome to my github page, so here is my some of info about my skills and experties in technologies, Currently I am focusing on full stack web development and I'm a learner and planning for provide freelance services in some days</p>
+<h3><i>Hi there! My name is Vivek Warkade</i></h3><p>welcome to my github page, so here is my some of info about my skills and experties in technologies, Currently I am focusing on full stack web development and I'm a learner and planning for provide freelance services in some days</p>
 
 It's very exciting to learn about new technologies and solveing problems, My existing work has taught me many things and looking forword, Expanding my knowledge and skills ability day by day and it's continue..... 
 
