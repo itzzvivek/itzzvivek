@@ -38,7 +38,7 @@
    - Database Design: I design database schemas that are efficient, scalable, and maintainable, ensuring data integrity and performance.
    - User Authentication: I implement secure user authentication mechanisms using Django's built-in authentication system or third-party libraries like Django-Allauth.
    - Version Control: I use Git for version control, ensuring a streamlined development workflow and easy collaboration with team members.
-   - DevOps & Deployment:** Experienced in using Docker for containerization and deploying applications to cloud platforms like AWS and deployment plateforms.
+   - DevOps & Deployment: Experienced in using Docker for containerization and deploying applications to cloud platforms like AWS and deployment plateforms.
      
 <h3><i>🎮 Gaming Areas:</i></h3>
 <p align="left">
