@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/activision-000000?style=for-the-badge&logo=activision&logoColor=white">
 </p>
 
-➡️ You can Email me if you want to hire me in your next Project : <a href="mailto:connectwith@vivekfolio.dev" styel="margin-left: 10px;"> <b>Let's Connect 🤘</b></a>      
+➡️ If you want to hire me in your next Project : <a href="mailto:connectwith@vivekfolio.dev" styel="margin-left: 10px;"> <b>Let's Connect </b></a>      
       
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=itzzvivek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="50%">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzvivek&show_icons=true&locale=en&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="itzzvivek"/></p>
