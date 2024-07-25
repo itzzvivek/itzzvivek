@@ -16,6 +16,8 @@
  - Create responsive frontend interfaces with React, ensuring a seamless user experience.
  -  Design and implement RESTful APIs for seamless data communication between frontend and backend.
  -  Optimize application performance through database tuning, caching strategies, and code optimization.
+ -  Deploy applications to production environments using tools like Docker, Gunicorn, and Nginx.
+ -  Implement continuous integration and continuous deployment (CI/CD) pipelines to automate the deployment process.
  
 <h3><i>🌱 Skills Stack:</i></h3>
 <p align="left"> 
