@@ -7,7 +7,7 @@
 <a href="https://discord.gg/CeEFkRu6"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
-<h3><i> My name is Vivek Warkade, I am a Full Stack Developer</i></h3>
+<h3><i> My name is Vivek Warkade, I am a Data Engineer</i></h3>
 <p>I'm a Data Engineer and Full Stack Developer with hands-on experience designing scalable data pipelines and building production-grade web applications. I’ve transitioned from full-stack development into data engineering, blending both to build end-to-end, data-driven solutions.</p>
 
 <h3><i>🔭 What I Do:</i></h3>
