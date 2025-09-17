@@ -10,7 +10,7 @@
 <h3><i> My name is Vivek Warkade, I am a Data Engineer</i></h3>
 <p>I'm a Data Engineer and Full Stack Developer with hands-on experience designing scalable data pipelines and building production-grade web applications. I’ve transitioned from full-stack development into data engineering, blending both to build end-to-end, data-driven solutions.</p>
 
-<h3><i>🔭 What I Do:</i></h3>
+<h3><i>What I Do:</i></h3>
 
 - Design data pipelines using Azure Data Factory, Databricks, and Synapse
 - Transform and serve data efficiently on Data Lake Gen2
@@ -18,7 +18,7 @@
 - Create responsive UIs using React
 - Deploy apps using Docker, CI/CD, and cloud platforms like Azure & AWS 
 
-<h3><i>🌱 Skills Stack:</i></h3>
+<h3><i>Skills Stack:</i></h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/Pyspark-38B2AC?style=for-the-badge&logo=pyspark&logoColor=orange">
@@ -40,7 +40,7 @@
 </p>
 
       
-<h3><i>💼 Experties On:</i></h3>
+<h3><i>Experties On:</i></h3>
 
 - **Data Engineering**: Proficient in building data pipelines using PySpark, Apache Airflow, Apache NiFi, and Databricks.
 - **Cloud Platforms**: Experience working with AWS and Azure for data storage, transformation, and deployment.
