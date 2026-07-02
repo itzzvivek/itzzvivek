@@ -46,12 +46,12 @@ Database Management: Strong background in MySQL and handling structured/unstruct
 ETL & Data Pipelines: Designing end-to-end ETL workflows for data ingestion, transformation, and analytics.
 DevOps & Deployment: Comfortable using Docker, Git, and CI/CD pipelines for scalable deployments.
 
-➡️ If you want to hire me for your next project: <a href="mailto:vivek.pydev@gmail.com"><b>Let's Connect</b></a>
-
-➡️ Check out my portfolio: Portfolio
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=itzzvivek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="50%">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzvivek&show_icons=true&locale=en&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="itzzvivek"/></p>
 <br><br>
+➡️ Check out my portfolio: [Portfolio](https://vivekfolio.vercel.app)
 
+      
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=itzzvivek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="50%">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzvivek&show_icons=true&locale=en&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="itzzvivek"/></p>
+
+  <br><br>
 <a align="right" href="https://www.buymeacoffee.com/vivekwarkaK" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
